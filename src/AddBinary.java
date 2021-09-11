@@ -36,7 +36,8 @@ public class AddBinary {
 		AddBinary addBinary=new AddBinary();
 		String a="10";
 		String b="101111";
-		addBinary.addBinary(a, b);
+		String c=addBinary.addBinary(a, b);
+		System.out.println(c+"Hello RajeshRedd");
 	}
 
 }

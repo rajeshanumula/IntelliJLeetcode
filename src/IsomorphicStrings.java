@@ -22,7 +22,7 @@ public class IsomorphicStrings {
 
 	public static void main(String[] args) {
 		IsomorphicStrings iso=new IsomorphicStrings();
-		String s="egg";
+		String s="egg1";
 		String t="add";
 		System.out.println(iso.isIsomorphic(s, t));
 	}
